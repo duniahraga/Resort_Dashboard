@@ -1,7 +1,7 @@
 {
   "name": "turista-dashboard",
   "version": "0.1.0",
-  "homepage": "https://yashadmin.dexignzone.com/react/demo",
+  "homepage": "https://duniahraga.github.io/Resort_Dashboard/react/demo",
   "private": true,
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^37.1.0",
@@ -61,6 +61,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -86,7 +88,7 @@
   },
   "devDependencies": {
     "@types/react-date-range": "^1.4.9",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.2.0",
     "react-scripts": "^5.0.1"
   }
 }

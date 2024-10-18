@@ -18,29 +18,6 @@ import React, {
   import "react-datepicker/dist/react-datepicker.css";
   import Multiselect from "multiselect-react-dropdown";
   
-  const parseDate = (dateString) => {
-    try {
-      const timestamp = Date.parse(dateString);
-      if (!isNaN(timestamp)) {
-        const date = new Date(timestamp);
-        if (!isNaN(date.getTime())) {
-          const year = date.getFullYear();
-          const month = String(date.getMonth() + 1).padStart(2, "0");
-          const day = String(date.getDate()).padStart(2, "0");
-          return `${year}-${month}-${day}`;
-        } else {
-          console.error("Invalid date:", dateString);
-          return "Invalid Date";
-        }
-      } else {
-        console.error("Invalid timestamp:", dateString);
-        return "Invalid Date";
-      }
-    } catch (error) {
-      console.error("Error parsing date:", error);
-      return "Error";
-    }
-  };
   
   const BookingAddModel = forwardRef((props, ref) => {
     //States
@@ -175,20 +152,8 @@ import React, {
       getMeals();
       getDates();
   
-      if (props.ApiDate) {
-        const apiDates = props.ApiDate;
-        const formattedDates = apiDates.map((dateObj) => {
-          if (dateObj && dateObj.EntryDate) {
-            return parseDate(dateObj.EntryDate);
-          }
-          return "Invalid Date";
-        });
-  
-        if (JSON.stringify(formattedDates) !== JSON.stringify(bookedDates)) {
-          setBookedDates(formattedDates);
-        }
-      }
-    }, [props.ApiDate, bookedDates]);
+      
+    }, []);
   
     const handleChaletChange = (e) => {
       const selectedItemId = e.target.value;
@@ -362,8 +327,7 @@ import React, {
           )
           .then((res) => swal("تمت الإضافة بنجاح"));
         formikObj.resetForm();
-        formikObj.setFieldValue("EntryDate", null);
-        formikObj.setFieldValue("ExitDate", null);
+        
   
         handleClose();
         props.getAllData();
