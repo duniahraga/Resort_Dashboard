@@ -1,0 +1,1332 @@
+{
+  "Restore": [
+    {
+      "id": "1",
+      "Title": "Restore",
+      "Cities": "",
+      "Zones": "",
+      "NearSea": "",
+      "Publish": "",
+      "CheckInTime": "",
+      "CheckOutTime": "",
+      "Advancedinformation": "",
+      "longitude": "",
+      "latitude": "",
+      "Seizurelaw": "",
+      "Abolitionlaw": "",
+      "facility": "",
+      "amenity": "",
+      "Description": "",
+      "status": "chalet"
+    },
+    {
+      "id": "a435",
+      "Title": "dunia",
+      "Cities": "html",
+      "Zones": "css",
+      "CheckInTime": "22:12",
+      "CheckOutTime": "22:13",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [],
+      "amenity": "coffee",
+      "Description": "",
+      "NearSea": true,
+      "NumberOfMeter": 1000,
+      "selectedValues": [
+        {
+          "id": "383d",
+          "name": "big pool"
+        },
+        {
+          "id": "f22b",
+          "name": "chaild pool"
+        }
+      ]
+    },
+    {
+      "id": "e5ae",
+      "Title": "test",
+      "Cities": "",
+      "Zones": "html",
+      "CheckInTime": "22:14",
+      "CheckOutTime": "22:14",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [],
+      "amenity": "coffee",
+      "Description": "",
+      "NearSea": true,
+      "NumberOfMeter": 5555,
+      "selectedValues": [
+        {
+          "id": "383d",
+          "name": "big pool"
+        },
+        {
+          "id": "f22b",
+          "name": "chaild pool"
+        }
+      ]
+    },
+    {
+      "id": "d973",
+      "Title": "test",
+      "Cities": "",
+      "Zones": "css",
+      "CheckInTime": "22:17",
+      "CheckOutTime": "22:16",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [
+        {
+          "id": "f22b",
+          "name": "chaild pool"
+        },
+        {
+          "id": "383d",
+          "name": "big pool"
+        }
+      ],
+      "amenity": "coffee",
+      "Description": "",
+      "NearSea": true,
+      "NumberOfMeter": 5555
+    },
+    {
+      "id": "9b0c",
+      "Title": "dunia",
+      "Cities": "html",
+      "Zones": "html",
+      "CheckInTime": "22:27",
+      "CheckOutTime": "22:28",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [
+        {
+          "id": "383d",
+          "facility": "big pool",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool",
+          "amenity": "resturant"
+        }
+      ],
+      "amenity": [],
+      "Description": ",,,,,,,,,",
+      "NearSea": true,
+      "NumberOfMeter": 100
+    },
+    {
+      "id": "fe70",
+      "Title": "dunia",
+      "Cities": "css",
+      "Zones": "html",
+      "CheckInTime": "22:31",
+      "CheckOutTime": "22:32",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [
+        {
+          "id": "383d",
+          "facility": "big pool",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool",
+          "amenity": "resturant"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "383d",
+          "facility": "big pool",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "iuyr",
+      "NearSea": true,
+      "NumberOfMeter": 100
+    },
+    {
+      "id": "a1a6",
+      "Title": "dunia",
+      "Cities": "html",
+      "Zones": "html",
+      "CheckInTime": "14:49",
+      "CheckOutTime": "14:49",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [],
+      "amenity": [],
+      "Description": "",
+      "NearSea": true,
+      "NumberOfMeter": 100,
+      "selections": [
+        {
+          "id": "383d",
+          "facility": "big pool",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool",
+          "amenity": "resturant"
+        }
+      ]
+    },
+    {
+      "id": "25c0",
+      "Title": "dunia",
+      "Cities": "html",
+      "Zones": "html",
+      "CheckInTime": "22:58",
+      "CheckOutTime": "13:56",
+      "Advancedinformation": [],
+      "longitude": "13.2057597",
+      "latitude": "32.8773606",
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [
+        {
+          "id": "383d",
+          "facility": "big pool"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "383d",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "",
+      "NearSea": "false",
+      "NumberOfMeter": 100,
+      "Guesttype": ""
+    },
+    {
+      "id": "cef9",
+      "Title": "testing",
+      "Cities": "css",
+      "Zones": "css",
+      "CheckInTime": "21:13",
+      "CheckOutTime": "21:14",
+      "Advancedinformation": [],
+      "longitude": 13.18613845169776,
+      "latitude": 32.89150246247479,
+      "Seizurelaw": "llkn",
+      "Abolitionlaw": "kjkb",
+      "facility": [
+        {
+          "id": "f22b",
+          "facility": "chaild pool"
+        },
+        {
+          "id": "383d",
+          "facility": "big pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "383d",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": ",.cknv",
+      "NearSea": "false",
+      "NumberOfMeter": 200
+    }
+  ],
+  "Chalets": [
+    {
+      "id": "1",
+      "Title": "",
+      "paymentmethod": "",
+      "WeekDayPrice": "",
+      "WeekendDayPrice": "",
+      "DepositweekDayPrice": "",
+      "NoOfGuest": "",
+      "NoOfadults": "",
+      "NoOfchildren": "",
+      "Numberofsimilarchalets": "",
+      "Chaletsize": "",
+      "Publish": "",
+      "dateNotAva": "",
+      "ImageFile": "",
+      "facility": "",
+      "amenity": "",
+      "Description": "",
+      "Guesttype": "",
+      "TypeofAccommodation": ""
+    },
+    {
+      "id": "02f6",
+      "Title": "test8",
+      "paymentmethod": "Paythefullamount",
+      "WeekDayPrice": 20,
+      "WeekendDayPrice": 500,
+      "DepositweekDayPrice": "",
+      "NoOfGuest": 54,
+      "NoOfadults": 7,
+      "NoOfchildren": 78,
+      "Numberofsimilarchalets": "css",
+      "Chaletsize": "css",
+      "Publish": true,
+      "dateNotAva": "javascript",
+      "ImageFile": "",
+      "facility": [
+        {
+          "id": "f22b",
+          "facility": "chaild pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "",
+      "DepositweekendDayPrice": "",
+      "Guesttype": "Turista",
+      "TypeofAccommodation": "Notmal"
+    },
+    {
+      "id": "51dd",
+      "Title": "test9",
+      "paymentmethod": "Paythefullamount",
+      "WeekDayPrice": 20,
+      "WeekendDayPrice": 500,
+      "DepositweekDayPrice": "",
+      "NoOfGuest": 54,
+      "NoOfadults": 7,
+      "NoOfchildren": 78,
+      "Numberofsimilarchalets": "css",
+      "Chaletsize": "css",
+      "Publish": true,
+      "dateNotAva": "html",
+      "ImageFile": "",
+      "facility": [
+        {
+          "id": "383d",
+          "facility": "big pool"
+        },
+        {
+          "id": "f22b",
+          "facility": "chaild pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "383d",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "",
+      "DepositweekendDayPrice": "",
+      "Guesttype": "Number",
+      "TypeofAccommodation": "VIP"
+    },
+    {
+      "id": "704b",
+      "Title": "test10",
+      "paymentmethod": "Deposit",
+      "WeekDayPrice": 20,
+      "WeekendDayPrice": 500,
+      "DepositweekDayPrice": 12,
+      "NoOfGuest": 54,
+      "NoOfadults": 7,
+      "NoOfchildren": 78,
+      "Numberofsimilarchalets": "css",
+      "Chaletsize": "javascript",
+      "Publish": true,
+      "dateNotAva": "css",
+      "ImageFile": "",
+      "facility": [
+        {
+          "id": "383d",
+          "facility": "big pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "",
+      "DepositweekendDayPrice": 12,
+      "Guesttype": "Turista",
+      "TypeofAccommodation": "VIP"
+    },
+    {
+      "id": "8c18",
+      "Title": "dunia",
+      "paymentmethod": "Paythefullamount",
+      "WeekDayPrice": 12,
+      "WeekendDayPrice": 12,
+      "DepositweekDayPrice": "",
+      "NoOfGuest": 5,
+      "NoOfadults": 5,
+      "NoOfchildren": 4,
+      "Numberofsimilarchalets": "css",
+      "Chaletsize": "html",
+      "Publish": true,
+      "dateNotAva": "css",
+      "ImageFile": "",
+      "facility": [],
+      "amenity": [],
+      "Description": "",
+      "DepositweekendDayPrice": "",
+      "Guesttype": "Number",
+      "TypeofAccommodation": "Notmal"
+    },
+    {
+      "id": "d1b7",
+      "Title": "دتيا ",
+      "paymentmethod": "Deposit",
+      "WeekDayPrice": 50,
+      "WeekendDayPrice": 50,
+      "DepositweekDayPrice": 20,
+      "NoOfGuest": 54,
+      "NoOfadults": 54,
+      "NoOfchildren": 54,
+      "Numberofsimilarchalets": "css",
+      "Chaletsize": "css",
+      "Publish": true,
+      "dateNotAva": "css",
+      "ImageFile": "",
+      "facility": [
+        {
+          "id": "f22b",
+          "facility": "chaild pool"
+        },
+        {
+          "id": "383d",
+          "facility": "big pool"
+        }
+      ],
+      "amenity": [
+        {
+          "id": "383d",
+          "amenity": "coffee"
+        },
+        {
+          "id": "f22b",
+          "amenity": "resturant"
+        }
+      ],
+      "Description": "testing coming from dunia\n",
+      "DepositweekendDayPrice": 30,
+      "Guesttype": "Number",
+      "TypeofAccommodation": "Notmal"
+    }
+  ],
+  "Booking": [
+    {
+      "id": "b8a2",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0917151075",
+      "whatsappNumber": "0917151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "02f6",
+      "Numberofguests": 7,
+      "Numberofadults": 7,
+      "Numberofchildren": 4,
+      "ExcessNumber": 848,
+      "Extrapriceperpersonperday": 7,
+      "EntryDate": "2024-10-24",
+      "ExitDate": "2024-10-26",
+      "Meals": [
+        {
+          "id": "7e52",
+          "Meal": "breakfast",
+          "Price": 50
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "8458",
+          "Services": "مكوا",
+          "Price": 11
+        },
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 4,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Dineer",
+      "uarantee": 4,
+      "sameAsPhoneNumber": false
+    },
+    {
+      "id": "c259",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0925553434",
+      "whatsappNumber": "0925553434",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "51dd",
+      "Numberofguests": 7,
+      "Numberofadults": 7,
+      "Numberofchildren": 7,
+      "ExcessNumber": 545,
+      "Extrapriceperpersonperday": 54,
+      "EntryDate": "2024-10-29",
+      "ExitDate": "2024-10-30",
+      "Meals": [
+        {
+          "id": "e035",
+          "Meal": "lunch",
+          "Price": 30
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "8458",
+          "Services": "مكوا",
+          "Price": 11
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 87,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Breakfats",
+      "uarantee": 5,
+      "sameAsPhoneNumber": true
+    },
+    {
+      "id": "3fa4",
+      "firstName": "Mohammed",
+      "LastName": "Alhady",
+      "phoneNumber": "0928626876",
+      "whatsappNumber": "0928626876",
+      "Residentialِddress": "tripoli",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "02f6",
+      "Numberofguests": 6,
+      "Numberofadults": 5,
+      "Numberofchildren": 5,
+      "ExcessNumber": -2,
+      "Extrapriceperpersonperday": 10,
+      "EntryDate": "2024-10-16",
+      "ExitDate": "2024-10-19",
+      "Meals": [],
+      "Otherservices": [
+        {
+          "id": "5cfb",
+          "Services": "فرشة",
+          "Price": 12
+        },
+        {
+          "id": "8458",
+          "Services": "مكوا",
+          "Price": 11
+        },
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 6,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Dineer",
+      "uarantee": "",
+      "sameAsPhoneNumber": true
+    },
+    {
+      "id": "0807",
+      "firstName": "Mohammed",
+      "LastName": "Alhady",
+      "phoneNumber": "0928626876",
+      "whatsappNumber": "0928626876",
+      "Residentialِddress": "tripoli",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "",
+      "Numberofguests": 7,
+      "Numberofadults": 4,
+      "Numberofchildren": 4,
+      "ExcessNumber": 1,
+      "Extrapriceperpersonperday": 0,
+      "EntryDate": "2024-10-10",
+      "ExitDate": "2024-10-15",
+      "Meals": [],
+      "Otherservices": [],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 10,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "",
+      "uarantee": 1,
+      "sameAsPhoneNumber": false
+    },
+    {
+      "id": "d148",
+      "firstName": "Mohammed",
+      "LastName": "Alhady",
+      "phoneNumber": "0928626876",
+      "whatsappNumber": "0928626876",
+      "Residentialِddress": "tripoli",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "",
+      "Numberofguests": 7,
+      "Numberofadults": 4,
+      "Numberofchildren": 4,
+      "ExcessNumber": 1,
+      "Extrapriceperpersonperday": 0,
+      "EntryDate": "2024-10-20",
+      "ExitDate": "2024-10-23",
+      "Meals": [],
+      "Otherservices": [],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 10,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "",
+      "uarantee": 1,
+      "sameAsPhoneNumber": false
+    },
+    {
+      "id": "7881",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "02f6",
+      "Numberofguests": 54,
+      "Numberofadults": 54,
+      "Numberofchildren": 87,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": "",
+      "EntryDate": "2024-12-05",
+      "ExitDate": "2024-12-14",
+      "Meals": [
+        {
+          "id": "e035",
+          "Meal": "lunch",
+          "Price": 30
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 54,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Breakfats",
+      "uarantee": 78,
+      "sameAsPhoneNumber": true
+    },
+    {
+      "id": "8ad5",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "02f6",
+      "Numberofguests": 54,
+      "Numberofadults": 54,
+      "Numberofchildren": 87,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": "",
+      "EntryDate": "2024-12-06",
+      "ExitDate": "2024-12-13",
+      "Meals": [
+        {
+          "id": "e035",
+          "Meal": "lunch",
+          "Price": 30
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "8458",
+          "Services": "مكوا",
+          "Price": 11
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 54,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "",
+      "uarantee": 78,
+      "sameAsPhoneNumber": false
+    },
+    {
+      "id": "dfdf",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "704b",
+      "Numberofguests": 54,
+      "Numberofadults": 54,
+      "Numberofchildren": 87,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": "",
+      "EntryDate": "2024-12-18",
+      "ExitDate": "2024-12-26",
+      "Meals": [],
+      "Otherservices": [],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 54,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "",
+      "uarantee": 78,
+      "sameAsPhoneNumber": false
+    },
+    {
+      "id": "7640",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0915554422",
+      "whatsappNumber": "0915554422",
+      "Residentialِddress": "32.81099007226252,13.145981132984161",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "704b",
+      "Numberofguests": 3,
+      "Numberofadults": 4,
+      "Numberofchildren": 17,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": 4,
+      "EntryDate": "2025-01-08",
+      "ExitDate": "2025-01-24",
+      "Meals": [
+        {
+          "id": "7e52",
+          "Meal": "breakfast",
+          "Price": 50
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 54,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Breakfats",
+      "uarantee": 5,
+      "sameAsPhoneNumber": true
+    },
+    {
+      "id": "cb84",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "51dd",
+      "Numberofguests": 7,
+      "Numberofadults": 52,
+      "Numberofchildren": "",
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": "",
+      "EntryDate": "2024-11-01",
+      "ExitDate": "2024-11-16",
+      "Meals": [
+        {
+          "id": "7e52",
+          "Meal": "breakfast",
+          "Price": 50
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "8458",
+          "Services": "مكوا",
+          "Price": 11
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 5,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Dineer",
+      "uarantee": "",
+      "sameAsPhoneNumber": true,
+      "TotalAfterDiscount": "",
+      "Total": "",
+      "Deadline": "",
+      "Discount": "",
+      "Paid": ""
+    },
+    {
+      "id": "09ab",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "",
+      "Numberofguests": 1,
+      "Numberofadults": 2,
+      "Numberofchildren": 7,
+      "ExcessNumber": 5,
+      "Extrapriceperpersonperday": 20,
+      "EntryDate": "2024-11-07",
+      "ExitDate": "2024-11-21",
+      "Meals": [],
+      "Otherservices": [],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 4,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "",
+      "Paymentofuarantee": "",
+      "uarantee": "",
+      "sameAsPhoneNumber": false,
+      "TotalAfterDiscount": "",
+      "Total": "",
+      "Deadline": "",
+      "Discount": "",
+      "Paid": ""
+    },
+    {
+      "id": "1661",
+      "firstName": "dunia",
+      "LastName": "hraga",
+      "phoneNumber": "0927151075",
+      "whatsappNumber": "0927151075",
+      "Residentialِddress": "adol street",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "704b",
+      "Numberofguests": 7,
+      "Numberofadults": 4,
+      "Numberofchildren": 4,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": 45,
+      "EntryDate": "2024-11-22",
+      "ExitDate": "2024-11-30",
+      "Meals": [
+        {
+          "id": "7e52",
+          "Meal": "breakfast",
+          "Price": 50
+        },
+        {
+          "id": "e035",
+          "Meal": "lunch",
+          "Price": 30
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        },
+        {
+          "id": "5cfb",
+          "Services": "فرشة",
+          "Price": 12
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 45,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Dineer",
+      "Paymentofuarantee": "Dineer",
+      "uarantee": "",
+      "sameAsPhoneNumber": true
+    },
+    {
+      "id": "59c2",
+      "firstName": "دنيا هشام",
+      "LastName": "هشام",
+      "phoneNumber": "0915554422",
+      "whatsappNumber": "0915554422",
+      "Residentialِddress": "32.81099007226252,13.145981132984161",
+      "Typeofaccommodation": "",
+      "Guesttype": "",
+      "ChaletName": "704b",
+      "Numberofguests": 7,
+      "Numberofadults": 7,
+      "Numberofchildren": 7,
+      "ExcessNumber": "",
+      "Extrapriceperpersonperday": 8,
+      "EntryDate": "2025-02-06",
+      "ExitDate": "2025-02-21",
+      "Meals": [
+        {
+          "id": "7e52",
+          "Meal": "breakfast",
+          "Price": 50
+        },
+        {
+          "id": "e035",
+          "Meal": "lunch",
+          "Price": 30
+        }
+      ],
+      "Otherservices": [
+        {
+          "id": "202c",
+          "Services": "مغسلة",
+          "Price": 55
+        },
+        {
+          "id": "5cfb",
+          "Services": "فرشة",
+          "Price": 12
+        }
+      ],
+      "mealspriceperday": "",
+      "Otherservicesperday": "",
+      "numberofday": 7,
+      "paymentMethod": "",
+      "Paytherestoftheamount": "Breakfats",
+      "Paymentofuarantee": "Dineer",
+      "uarantee": 7,
+      "sameAsPhoneNumber": true
+    }
+  ],
+  "ResortSettong": [
+    {
+      "id": "1",
+      "facility": "",
+      "amenity": ""
+    },
+    {
+      "id": "383d",
+      "facility": "big pool",
+      "amenity": "coffee"
+    },
+    {
+      "id": "f22b",
+      "facility": "chaild pool",
+      "amenity": "resturant"
+    }
+  ],
+  "OtherServices": [
+    {
+      "id": "1",
+      "Services": "",
+      "Price": ""
+    },
+    {
+      "id": "202c",
+      "Services": "مغسلة",
+      "Price": 55
+    },
+    {
+      "id": "8458",
+      "Services": "مكوا",
+      "Price": 11
+    },
+    {
+      "id": "5cfb",
+      "Services": "فرشة",
+      "Price": 12
+    }
+  ],
+  "Meals": [
+    {
+      "id": "1",
+      "Meal": "",
+      "Price": ""
+    },
+    {
+      "id": "7e52",
+      "Meal": "breakfast",
+      "Price": 50
+    },
+    {
+      "id": "e035",
+      "Meal": "lunch",
+      "Price": 30
+    },
+    {
+      "id": "8a02",
+      "Meal": "dinner",
+      "Price": 30
+    }
+  ],
+  "Uers": [
+    {
+      "id": "1",
+      "firstName": "dunia",
+      "lastName": "harga",
+      "email": "",
+      "phoneNumber": "",
+      "passord": "",
+      "role": "",
+      "job": ""
+    },
+    {
+      "id": "c03d",
+      "firstName": "dunia",
+      "lastName": "harag",
+      "email": "dunia@email.com",
+      "password": "123456",
+      "role": "html",
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "90a3",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [],
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "5980",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [],
+      "phoneNumber": 927151075,
+      "selectedItems": [
+        "Apple",
+        "Banana",
+        "Cherry"
+      ]
+    },
+    {
+      "id": "d3ac",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [],
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "3778",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [
+        "Apple",
+        "Banana",
+        "Cherry"
+      ],
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "18bc",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [
+        "Banana",
+        "Cherry"
+      ],
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "77f4",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [
+        "إمكانية الحجز",
+        "عرض كل الحجزات في النظام ",
+        "الدخول لتقارير المالية",
+        "الايام المتاحة والغير متاحة",
+        "تعديل بيانات المنتجع"
+      ],
+      "phoneNumber": 927151075
+    },
+    {
+      "id": "fe99",
+      "firstName": "dunia",
+      "lastName": "hraga",
+      "email": "duniahraga98@gmail.com",
+      "password": "123456",
+      "role": [
+        "عرض حجوزات هدا الموظف",
+        "الايام المتاحة والغير متاحة"
+      ],
+      "phoneNumber": 927151075,
+      "loginSettings": [
+        "تحكم في إعدادات الوجبات",
+        "   تحكم في إعدادات الخدمات "
+      ]
+    }
+  ],
+  "Guests": [
+    {
+      "id": "1",
+      "Guests": "dunia",
+      "Price": "100"
+    },
+    {
+      "id": "78af",
+      "Meal": "",
+      "Price": 500,
+      "Guests": "sara"
+    }
+  ],
+  "Setting": [
+    {
+      "id": "399f",
+      "MainLogo": "blob:http://localhost:3001/dabf4e38-c062-4b0b-8575-e4efe151c839",
+      "logotitle": "blob:http://localhost:3001/3616892c-f531-4c3d-9f28-774d4381739a",
+      "FavIcon": "blob:http://localhost:3001/b57f52c3-92b0-49f5-acb8-085a602a9dee",
+      "Title": "dunia"
+    }
+  ],
+  "MoniterTraffic": [
+    {
+      "id": 1,
+      "BookingID": "12",
+      "TypeID": "13",
+      "financialvalue": "anything",
+      "CreatedOn": "anything",
+      "UserName": "anything",
+      "PhoneNumber": "anything",
+      "PropertyOwnerAccount": "anything",
+      "Payment": "anything",
+      "note": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 2,
+      "BookingID": "12",
+      "TypeID": "13",
+      "financialvalue": "anything",
+      "CreatedOn": "anything",
+      "UserName": "anything",
+      "PhoneNumber": "anything",
+      "PropertyOwnerAccount": "anything",
+      "Payment": "anything",
+      "note": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 3,
+      "BookingID": "12",
+      "TypeID": "13",
+      "financialvalue": "anything",
+      "CreatedOn": "anything",
+      "UserName": "anything",
+      "PhoneNumber": "anything",
+      "PropertyOwnerAccount": "anything",
+      "Payment": "anything",
+      "note": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    }
+  ],
+  "AllInvoices": [
+    {
+      "id": 1,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 2,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 3,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    }
+  ],
+  "FinancialReportofReservations": [
+    {
+      "id": 1,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 2,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 3,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    }
+  ],
+  "Statistics": [
+    {
+      "id": 1,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 2,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 3,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    }
+  ],
+  "ResortAccountatTourista": [
+    {
+      "id": 1,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 2,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    },
+    {
+      "id": 3,
+      "BookingID": "12",
+      "TypeID": "13",
+      "Employ": "anything",
+      "CreatedOn": "anything",
+      "StartDate": "12-10-2024",
+      "EndDate": "15-10-2024"
+    }
+  ]
+}
